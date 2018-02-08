@@ -1,2 +1,2 @@
 # ldap
-Containerize LDAP Server
+Containerizes the LDAP Server for the dops-trainer lab.
